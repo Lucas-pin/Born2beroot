@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by Lucas-pin.*
+*This project has been created as part of the 42 curriculum by lupin.*
 
 # Born2beroot
 
